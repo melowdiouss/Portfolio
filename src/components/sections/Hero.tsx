@@ -117,7 +117,7 @@ export default function Hero() {
                     </motion.a>
                 </motion.div>
 
-                {/* Scroll indicator */}
+                {/* Scroll indicator
                 <motion.div
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -137,7 +137,7 @@ export default function Hero() {
                             transition={{ duration: 2, repeat: Infinity }}
                         />
                     </motion.div>
-                </motion.div>
+                </motion.div> */}
             </motion.div>
         </section>
     );
